@@ -3,16 +3,16 @@ This is music recommendation system who can recommend you a music based on your 
 
 
 ## Home Page
-![](images/Home page.png)
+![](images/home.png)
 
 ## Login Page
-![](images/Login page.png)
+![](images/login.png)
 
 ## Registeration Page
-![](images/register page.png)
+![](images/register.png)
 
 ## User Selected Artist Page
-![](images/user selected Artist.png)
+![](images/user_selected_artist.png)
 
 ## User Selected Genre Page
-![](images/user selected genre.png)
+![](images/user_selected_genre.png)
